@@ -1,5 +1,5 @@
 /* eslint-disable */
-import TodoItem from './todoItem';
+import TodoItem from './TodoItem';
 
 import { Component } from 'react';
 
